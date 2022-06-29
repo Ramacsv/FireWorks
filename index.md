@@ -8,9 +8,11 @@ July 4th is FireWorks day
 
 
 
-**Bold** and _Italic_ and `Code` text
+![Water Falls](https://github.com/Ramacsv/FireWorks/blob/gh-pages/Yosemite%20copy.jpg)
 
-[Link](url) and ![Image](src)
+<b>Image Credits - Photo By SuiteCase Blue</b>
+<hr style="border:2px solid blue">
+
 
 *Picture Will be added*
 
