@@ -12,10 +12,6 @@ July 4th is FireWorks day
 <b>Image Credits - Photo By SuiteCase Blue</b>
 <hr style="border:2px solid blue">
 
-
-*Picture Will be added*
-
-
 ## Thank You For Reading This Page
 
 
