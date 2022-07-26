@@ -23,10 +23,10 @@ Thank you*
 ```
 
 
-![Water Falls](Yosemitecopy.jpg "Show Text")
+![Water Falls](Yosemitecopy.jpg "Yosemite")
 
 <b>Image Credits - Photo By SuiteCase Blue</b>
-<hr style="border:2px solid blue">
+<hr style="border:4px solid blue">
 
 ## Thank You For Reading This Page
 
